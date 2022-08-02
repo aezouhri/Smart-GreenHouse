@@ -21,4 +21,6 @@ taught in lecture. These include things like bluetooth, databases, and encryptio
 
 # System Diagram
 
-[System Diagram]()
+![System Diagram](https://github.com/aezouhri/Smart-GreenHouse/blob/main/Pictures/System%20Diagram.png)
+
+![Greenhouse System Diagram] (https://github.com/aezouhri/Smart-GreenHouse/blob/main/Pictures/Greenhouse%20System%20Diagram.png)
